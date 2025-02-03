@@ -81,9 +81,6 @@ WORKDIR /app
 # Copy the current directory contents into the container at /app
 COPY . /app
 
-# Install any needed packages (in this case, there are none)
-RUN pip install --no-cache-dir
-
 # Run tic-tac-toe.py when the container launches
 CMD ["python", "tic-tac-toe.py"]
 ```
