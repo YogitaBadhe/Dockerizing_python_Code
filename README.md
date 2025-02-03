@@ -5,8 +5,8 @@ This project demonstrates how to Dockerize a simple Python-based Tic-Tac-Toe gam
 ## Clone Repo
 To get started, clone the repository and navigate into the project folder:
 ```bash
-git clone https://github.com/YogitaBadhe/Dockerise_python_Project.git
-cd Dockerise_python_Project
+git clone https://github.com/YogitaBadhe/Dockerizing_python_Code.git
+cd Dockerizing_python_Code
 ```
 
 ## Prerequisites
@@ -161,11 +161,4 @@ If you encounter any issues, please open an issue on the repository, and I'll as
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
----
-
-This README provides clear instructions for setting up, Dockerizing, and running the Python Tic-Tac-Toe game. Let me know if you need any further adjustments or help! 😊
+This README provides clear instructions for setting up, Dockerizing, and running the Python Tic-Tac-Toe game.
